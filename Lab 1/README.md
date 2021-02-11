@@ -1,5 +1,3 @@
-
-
 # Staging Interaction
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
@@ -69,12 +67,27 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
+```
+setting: The interaction is happening in a office on the table of the main actor's table.
+ 
+players: The main actor using his/her computer and some other actors as his colleagues in the same office.
+
+activity: The main actor is using his computer and the other actor is going to interrupt he and ask questions.
+
+goals: The main actor's goal is he doesn't want to be interrupted when he is in a video call or he's in the flow state where he's very productive. And the other actor's goal is to know when is the best time to reach out to other people.
+```
+
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
+
+![storyboard](Images/storyboard.png)
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
+```
+My orignal idea that I mentioned in the breakout room was a camera with lights that can automatically adjust the angle and brightness to help the user get better lighting for video call. The feedback I got was I can use different color to help make the video more natural and customized. However, I change the device I want to make after the breakout room.
+```
 
 ## Part B. Act out the Interaction
 
@@ -83,7 +96,6 @@ Try physically acting out the interaction you planned. For now, you can just pre
 **Are there things that seemed better on paper than acted out?**
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
-
 
 ## Part C. Prototype the device
 
