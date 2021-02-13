@@ -95,7 +95,15 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **Are there things that seemed better on paper than acted out?**
 
+```
+Yes. I found out that it is easy for other actors to see the interaction device on paper. But when acting out, the interaction device may be blocked by other things on the table. Therefore, I should also think about how this interaction device should be place on the table.
+```
+
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+
+```
+One new ideas we came up when acting is that the interactive device can use more color to indicate more status. For example, we can have a color orange to indicate that the actor is focusing and willing to be interrupted only by urgent request. 
+```
 
 ## Part C. Prototype the device
 
@@ -105,6 +113,8 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
+
+
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
