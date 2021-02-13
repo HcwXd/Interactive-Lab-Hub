@@ -114,7 +114,9 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
 
-
+```
+It will be great if Tinkerbelle can have some buttons that can store some color codes that the user frequently use. Therefore, when the user need to use that color, he/she can just click on the button. 
+```
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
