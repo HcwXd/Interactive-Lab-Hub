@@ -67,15 +67,15 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
-```
-setting: The interaction is happening in a office on the table of the main actor's table.
- 
+
+setting: The interaction is happening in an office on the table of the main actor's table.
+
 players: The main actor using his/her computer and some other actors as his colleagues in the same office.
 
-activity: The main actor is using his computer and the other actor is going to interrupt he and ask questions.
+activity: The main actor is using his computer and the other actor is going to interrupt him and ask questions.
 
 goals: The main actor's goal is he doesn't want to be interrupted when he is in a video call or he's in the flow state where he's very productive. And the other actor's goal is to know when is the best time to reach out to other people.
-```
+
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
@@ -85,9 +85,9 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
-```
-My orignal idea that I mentioned in the breakout room was a camera with lights that can automatically adjust the angle and brightness to help the user get better lighting for video call. The feedback I got was I can use different color to help make the video more natural and customized. However, I change the device I want to make after the breakout room.
-```
+
+My original idea that I mentioned in the breakout room was a camera with lights that can automatically adjust the angle and brightness to help the user get better lighting for video calls. The feedback I got was I can use different colors to help make the video more natural and customized. However, I change the device I want to make after the breakout room.
+
 
 ## Part B. Act out the Interaction
 
@@ -95,15 +95,15 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **Are there things that seemed better on paper than acted out?**
 
-```
-Yes. I found out that it is easy for other actors to see the interaction device on paper. But when acting out, the interaction device may be blocked by other things on the table. Therefore, I should also think about how this interaction device should be place on the table.
-```
+
+Yes. I found out that it is easy for other actors to see the interaction device on paper. But when acting out, the interaction device may be blocked by other things on the table. Therefore, I should also think about how this interaction device should be placed on the table.
+
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
 
-```
-One new ideas we came up when acting is that the interactive device can use more color to indicate more status. For example, we can have a color orange to indicate that the actor is focusing and willing to be interrupted only by urgent request. 
-```
+
+One new idea we came up with when acting is that the interactive device can use more color to indicate more status. For example, we can have a color orange to indicate that the actor is focusing and willing to be interrupted only by urgent requests. 
+
 
 ## Part C. Prototype the device
 
@@ -114,9 +114,9 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
 
-```
-It will be great if Tinkerbelle can have some buttons that can store some color codes that the user frequently use. Therefore, when the user need to use that color, he/she can just click on the button. 
-```
+
+It will be great if Tinkerbelle can have some buttons that can store some color codes that the user frequently uses. Therefore, when the user needs to use that color, he/she can just click on the button. 
+
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -143,9 +143,9 @@ Think about the setting of the device: is the environment a place where the devi
 
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
 
-```
-To put it on the user's table, I think it will be better to make it as simple as possible to avoid distraction for user.
-```
+
+To put it on the user's table, I think it will be better to make it as simple as possible to avoid distraction for the user.
+
 
 
 ## Part F. Record
@@ -156,9 +156,9 @@ https://youtu.be/MbJENo7Zn5Q
 
 **Please indicate anyone you collaborated with on this Lab.**
 
-```
-Thanks to Jeremy Shaffer, Ritika Poddar, Niki Agrawal and Shivani Doshi for the feedback and inspiration in the breakout room session. Thanks to Ming-Chun (Jeff) Lu, Justin Liu for helping me with the video shooting.
-```
+
+Thanks to Jeremy Shaffer, Ritika Poddar, Niki Agrawal, and Shivani Doshi for the feedback and inspiration in the breakout room session. Thanks to Ming-Chun (Jeff) Lu, Justin Liu for helping me with the video shooting.
+
 
 # Staging Interaction, Part 2 
 
