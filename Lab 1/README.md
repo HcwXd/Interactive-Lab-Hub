@@ -155,7 +155,10 @@ To put it on the user's table, I think it will be better to make it as simple as
 https://youtu.be/MbJENo7Zn5Q
 
 **Please indicate anyone you collaborated with on this Lab.**
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+```
+Thanks to Jeremy Shaffer, Ritika Poddar, Niki Agrawal and Shivani Doshi for the feedback and inspiration in the breakout room session. Thanks to Ming-Chun (Jeff) Lu, Justin Liu for helping me with the video shooting.
+```
 
 # Staging Interaction, Part 2 
 
