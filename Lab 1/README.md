@@ -139,7 +139,13 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
+![sketches](Images/sketches.jpg)
+
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
+
+```
+To put it on the user's table, I think it will be better to make it as simple as possible to avoid distraction for user.
+```
 
 
 ## Part F. Record
