@@ -171,6 +171,28 @@ You will be assigned three partners from another group. Go to their github pages
 
 **Summarize feedback from your partners here.**
 
+From Ritika:
+
+1. In the video I can see the light turned red when the user opened zoom and then turned green when zoom was closed. 
+2. It looks like the light turned red as soon as the zoom application was opened, before a call was even started. And then the light only turned green once the user closed the zoom screen completely. Does this mean even if a user isn’t on a zoom call but has the zoom window open the light will show red? That might be an issue if the user has the window open in the background and forgets to close it. 
+3. I think you can probably place the light/device a little bit closer in the video to draw more attention to it. Initially I didn’t notice that the light was changing because it’s kind of small on the screen. 
+
+From Niki:
+
+1. It was clear through the text on the screen that the light indicated that you were either on the call (red) or off the call (green)
+2. In recording your video, it didn’t seem like you were actually in the zoom call when the light was red, so I would just keep it on zoom the whole time.
+3. Lastly, I would place the light device somewhere more clear like behind you with the light clearly facing the person walking in. By it being on the table, it seemed like the person had to lean a bit forward into the frame to see what color it was
+
+Fro Jeremy:
+
+The scene is someone walking in on another person on a video call who does not want to be interrupted. The device is “video call activated.” Here is what I saw happening:
+
+1. Person A is about to join a video call. They have placed the device at the end of their table, which is in a neutral state (indicated with a yellow light).
+2. When they join the video call, the device turns red, indicating that they should not be disturbed.
+3. When Person B walks in, they see the red light and walk away so as not to disturb Person A.
+4. When Person A ends their call, the device returns to a neutral state (yellow light).
+5. Person B comes back and knows they can interact with Persona A now due to the yellow light
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
