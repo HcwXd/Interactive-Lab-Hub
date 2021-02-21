@@ -76,7 +76,6 @@ activity: The main actor is using his computer and the other actor is going to i
 
 goals: The main actor's goal is he doesn't want to be interrupted when he is in a video call or he's in the flow state where he's very productive. And the other actor's goal is to know when is the best time to reach out to other people.
 
-
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
 
@@ -201,3 +200,67 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 **Document everything here.**
+
+
+**Describe your setting, players, activity and goals here.**
+
+
+setting: The interaction is happening in a classroom and the device is placed on the table in front of the lecturer.
+
+players: A teacher on the stage and some students in the classroom.
+
+activity: The teacher is giving lecture on the stage and the students is listening to the lecture.
+
+goals: The teacher's goal is to know how the students are learning. The teacher wants to use a camera that can analyze student's facial expression and display with emojis to indicate whether one student is confused, focus, distracted, bored, delightful. In this way, teacher can know what topics or concepts he/she should explain more to improve all the student's learning performance.
+
+Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
+**Include a picture of your storyboard here**
+
+![storyboard2](Images/storyboard2.jpg)
+
+Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
+**Summarize feedback you got here.**
+
+
+
+**Are there things that seemed better on paper than acted out?**
+
+
+Yes. I found out that it is easy for other actors to see the interaction device on paper. But when acting out, the interaction device may be blocked by other things on the table. Therefore, I should also think about how this interaction device should be placed on the table.
+
+
+**Are there new ideas that occur to you or your collaborators that come up from the acting?**
+
+
+One new idea we came up with when acting is that the interactive device can use more color to indicate more status. For example, we can have a color orange to indicate that the actor is focusing and willing to be interrupted only by urgent requests. 
+
+**Include your first attempts at recording the set-up video here.**
+
+https://youtu.be/TCs9YHVlMQI
+
+Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+
+**Show the follow-up work here.**
+
+https://youtu.be/2nzBOfJA2p8
+
+**Include sketches of what your device might look like here.**
+
+![sketches](Images/sketches.jpg)
+
+**What concerns or opportunitities are influencing the way you've designed the device to look?**
+
+**Take a video of your prototyped interaction.**
+
+https://youtu.be/MbJENo7Zn5Q
+
+**Please indicate anyone you collaborated with on this Lab.**
+
+Thanks to Jeremy Shaffer, Ritika Poddar, Niki Agrawal, and Shivani Doshi for the feedback and inspiration in the breakout room session. Thanks to Ming-Chun (Jeff) Lu, Justin Liu for helping me with the video shooting.
+
+
+
+
+
+
+
