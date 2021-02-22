@@ -245,9 +245,11 @@ https://drive.google.com/file/d/17aBnHSoTGUnMxug4Vy05XjHdoJVlq3tz/view?usp=shari
 
 **Include sketches of what your device might look like here.**
 
-
+![sketches2](./images/sketches2.jpg)
 
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
+
+The camera should be a separate module that can be integrated to a computer and use its screen to display information of student's learning.
 
 **Take a video of your prototyped interaction.**
 
