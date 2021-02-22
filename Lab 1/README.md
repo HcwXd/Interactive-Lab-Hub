@@ -225,40 +225,37 @@ Present your idea to the other people in your breakout room. You can just get fe
 
 **Are there things that seemed better on paper than acted out?**
 
-
-Yes. I found out that it is easy for other actors to see the interaction device on paper. But when acting out, the interaction device may be blocked by other things on the table. Therefore, I should also think about how this interaction device should be placed on the table.
+Yes. I found out that it is like what I did in Part 1, it is easy for other actors to see the interaction device on paper. When acting out, the interaction device may be blocked by other things on the table. Also, in a random classroom, there may not be a proper place to set up the device. 
 
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
 
 
-One new idea we came up with when acting is that the interactive device can use more color to indicate more status. For example, we can have a color orange to indicate that the actor is focusing and willing to be interrupted only by urgent requests. 
+One new ideas that occur is that maybe we can add a feature that let students to use mobile device or their computers to ask question anonymously and display it on the screen of the device. 
 
 **Include your first attempts at recording the set-up video here.**
 
-https://youtu.be/TCs9YHVlMQI
+https://drive.google.com/file/d/14mPJRUMJ0qBfsCCAf-q_mPzFI2BRw6YN/view?usp=sharing
 
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
 
-https://youtu.be/2nzBOfJA2p8
+https://drive.google.com/file/d/17aBnHSoTGUnMxug4Vy05XjHdoJVlq3tz/view?usp=sharing
 
 **Include sketches of what your device might look like here.**
 
-![sketches](Images/sketches.jpg)
+
 
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
 
 **Take a video of your prototyped interaction.**
 
-https://youtu.be/MbJENo7Zn5Q
+https://drive.google.com/file/d/1cp4kXBlLwYPbSTTAe5lqsrIzhzOaR6cy/view?usp=sharing
 
 **Please indicate anyone you collaborated with on this Lab.**
 
-Thanks to Jeremy Shaffer, Ritika Poddar, Niki Agrawal, and Shivani Doshi for the feedback and inspiration in the breakout room session. Thanks to Ming-Chun (Jeff) Lu, Justin Liu for helping me with the video shooting.
-
-
+Thanks to Jeremy Shaffer, Ritika Poddar, Niki Agrawal, and Shivani Doshi for the feedback and inspiration in the breakout room session. 
 
 
 
