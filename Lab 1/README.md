@@ -245,7 +245,7 @@ https://drive.google.com/file/d/17aBnHSoTGUnMxug4Vy05XjHdoJVlq3tz/view?usp=shari
 
 **Include sketches of what your device might look like here.**
 
-![sketches2](./images/sketches2.jpg)
+![sketches2](Images/sketches2.jpg)
 
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
 
