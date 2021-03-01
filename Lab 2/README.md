@@ -175,5 +175,5 @@ https://drive.google.com/file/d/1ZwT5r_zIDZYTeMf7uMMq3TldlYJhucuH/view?usp=shari
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
-
+![Sketch-1](Image/Sketch-1.png)
 
