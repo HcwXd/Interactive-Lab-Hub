@@ -91,7 +91,11 @@ The system should:
 
 *Document how the system works*
 
+The device, which I call him Dude, can take user's sentence as an input and do sentimental analyze using NLP. When you say "What's up Dude", this Dude will start to listen to your input. After capturing the user's emotion, this Dude will play a music based on the analysis.
+
 *Include videos or screencaptures of both the system and the controller.*
+
+[Video demo](https://drive.google.com/file/d/1maaFhJyj9pTmV-ozX9VxDxmGM7z5mWBb/view?usp=sharing
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
