@@ -74,7 +74,13 @@ Create a system that runs on the Raspberry Pi that takes in one or more sensors 
 
 *what was the feedback? Who did it come from?*
 
+Justin Liu:
 
+It's pretty cool. But right now it sounds a little bit like what Alexa can do.
+
+Kae-Jer Cho:
+
+I think the most important part may be how Raspberry Pi decides which songs to play. Also, sometimes people may want to listen to upbeat song when they're upset, but not listen to emotional song. 
 
 ## Prototype your system
 
