@@ -95,26 +95,34 @@ The device, which I call him Dude, can take user's sentence as an input and do s
 
 *Include videos or screencaptures of both the system and the controller.*
 
-[Video demo](https://drive.google.com/file/d/1maaFhJyj9pTmV-ozX9VxDxmGM7z5mWBb/view?usp=sharing
+[Video demo](https://drive.google.com/file/d/1maaFhJyj9pTmV-ozX9VxDxmGM7z5mWBb/view?usp=sharing)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
+Two people tested the system -  Justin Liu, Kae-Jer Cho
+
 Answer the following:
 
 ### What worked well about the system and what didn't?
-*your answer here*
+In general, the interaction between the user and this Dude worked well. Adding a Siri-like interaction technique like saying "What's up Dude" before the actual command not only made the interaction more smooth but also made the user like the device more.
+
+Something that didn't work well is that sometimes the user didn't like the music this Dude played.
 
 ### What worked well about the controller and what didn't?
 
-*your answer here*
+The controller is easy to use in general and worked well with no latency.
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-*your answer here*
+One of the main lessons I can take away from the WoZ interaction for designing a more autonomous version of the system is that making the interaction fun and natural is very important for improving the whole experience. Saying something playful like "What's up Dude" to the device actually made the user like the device and also made the overall experience more lovely.
+
+The other lesson I learn it is also important for the user to have the ability to specify some songs the user wants to listen to since, sometimes, the user may have made up his/her mind for listening to certain songs 
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-*your answer here*
+I could use my system to track all the songs the device plays and the reaction of the user. In this way, we can analyze whether some songs are working well in certain emotions.
+
+The other sensing modalities we may capture are the facial expression or the heart rate of a user. These two sensing modalities can help us determine the user's emotion better.
 
