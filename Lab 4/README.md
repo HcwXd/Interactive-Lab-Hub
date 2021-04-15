@@ -127,10 +127,14 @@ Here is an example:
 
 
 Make a paper display for your project that communicates the state of the Pi and a sensor. Ideally you should design it so that you can slide the Pi out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.
- 
+
 **a. Document the design for your paper display.** (e.g. if you had to make it again from scratch, what information would you need?). Include interim iterations (or at least tell us about them).
 
+For this lab, I decided to create a smart speaker that can take the user's sentence as an audio input and do sentimental analysis using NLP to play music based on the analysis. When we say "What's up Dude", this smart speaker, which named Dude, will start to listen to our voice input.
+
 **b. Make a video of your paper display in action.**
+
+
 
 **c. Explain the rationale for the design.** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
