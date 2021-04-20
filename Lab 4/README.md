@@ -138,7 +138,7 @@ The paper display was in digital format: [Link](https://drive.google.com/file/d/
 
 **c. Explain the rationale for the design.** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
-For me, the most important part about design the device is to make it less like a machine. Therefore, I try to add a color that is warm tone color. Therefore, I choose to add more cardboard to make the black speaker less like a cold machine.
+For me, the most important part about design the device is to make it less like a machine. Therefore, I try to add a color that is warm tone color. Therefore, I choose to add more warm color to make the black speaker less like a cold machine.
 
 ### Part D
 ### Materiality
@@ -152,6 +152,8 @@ Design a system with the Pi and anything from your kit with a focus on form, and
 To build the prototype, we can use 3D printing, laser-cutting acrylic, cardboard, and paper.
 
 **b. explain the selection.**
+
+I used cardboard because it is both the most time-efficient and the most cost-effective method.
 
 ### Part 2.
 
