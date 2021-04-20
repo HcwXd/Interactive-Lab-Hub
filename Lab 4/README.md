@@ -134,7 +134,7 @@ For this lab, I decided to create a smart speaker that can take the user's sente
 
 **b. Make a video of your paper display in action.**
 
-
+The paper display was in digital format: [Link](https://drive.google.com/file/d/1NNOO_NZfvDrKJgFRNOAMPH81XjC_0sfl/view?usp=sharing).
 
 **c. Explain the rationale for the design.** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
