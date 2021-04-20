@@ -138,6 +138,8 @@ The paper display was in digital format: [Link](https://drive.google.com/file/d/
 
 **c. Explain the rationale for the design.** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
+For me, the most important part about design the device is to make it less like a machine. Therefore, I try to add a color that is warm tone color. Therefore, I choose to add more cardboard to make the black speaker less like a cold machine.
+
 ### Part D
 ### Materiality
 
