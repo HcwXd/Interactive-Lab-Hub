@@ -149,6 +149,8 @@ Design a system with the Pi and anything from your kit with a focus on form, and
 
 **a. document the material prototype.** Include candidates that were considered even if they were set aside later.
 
+To build the prototype, we can use 3D printing, laser-cutting acrylic, cardboard, and paper.
+
 **b. explain the selection.**
 
 ### Part 2.
