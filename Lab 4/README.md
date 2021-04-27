@@ -173,6 +173,18 @@ Reiterating:
 
 #### Acts like
 
+Prototype:
+
+![p1](Images/p1.png)
+
+![p2](Images/p2.png)
+
+![p3](Images/p3.png)
+
+Storyboard:
+
+![Storyboard](Images/Storyboard.png)
+
 
 
 ### Deliverables for this lab are: 
