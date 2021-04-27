@@ -167,6 +167,12 @@ Reiterating:
 
 
 
+#### Works like
+
+![work-like](Images/work-like.png)
+
+#### Acts like
+
 
 
 ### Deliverables for this lab are: 
