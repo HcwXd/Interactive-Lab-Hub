@@ -145,11 +145,35 @@ Now flight test your interactive prototype and **note your observations**:
 For example:
 
 1. When does it what it is supposed to do?
+
+   The model works well for most cases when testing only hand is in the image due to the large data set that is used in training.
+
 1. When does it fail?
+
+   The model failed in two major cases: when the hand gesture for one is not super clear and when there's face in the image. 
+   ![f2](images/f2.png) 
+
+   ![f1](images/f1.png)
+
 1. When it fails, why does it fail?
+
+   For one is not super clear, it failed because the gesture of the one in hand may look a little bit like two for machine. For the face in the image, it failed because I failed to take this into consideration.
+
 1. Based on the behavior you have seen, what other scenarios could cause problems?
+   Based on the aforementioned observation, if may cause problem when we used it in scenario like zoom since it in zoom, people usually have their face included in the video.
 
 **Think about someone using the system. Describe how you think this will work.**
+
+To fix the problem I mentioned before, I add more training dataset with human face involved and do the training again. Right now, the model can work fine with human face in the video.
+
+![00](images/00.png)
+
+![11](images/11.png)
+
+![22](images/22.png)
+
+![33](images/33.png)
+
 
 1. Are they aware of the uncertainties in the system?
 1. How bad would they be impacted by a miss classification?
