@@ -93,8 +93,20 @@ This device can be used for two player who would like to play basketball remotel
 
 **2. Diagram the architecture of the system.** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
 
+![diagram](imgs/diagram.png)
+
+The two players can each use their own raspberry pi and play the basketball. There's a camera attached to the Raspberry Pi that tells whether the basketball is going into the basket successfully. After the camera received the visual input and determine whether there's a score added, it will send the score over MQTT under the specific topic (`IDD/Illusinate/playerX`). The path here will be determined by which player is using the Raspberry Pi. For example, if the player 1 is using that Raspberry Pi, then the path will be `IDD/Illusinate/player1`. After the score of player 1 is updated in the MQTT database, the Raspberry Pi of the player 2 will receive the update in the database and display accordingly on its screen. Therefore, the two player's Raspberry Pi will display the synced score of each player.
+
 **3. Build a working prototype of the system.** Do think about the user interface: if someone encountered these bananas, would they know how to interact with them? Should they know what to expect?
 
+
+
 **4. Document the working prototype in use.** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
+
+[Google Drive Link](https://drive.google.com/file/d/10tTn2xGhgNC6KjfZB6JYofiecKtaWkm1/view?usp=sharing)
+
+Player 1 [Google Drive Link](https://drive.google.com/file/d/1RaEQDWj1nUlwV3KDRiKFItP90BSxYLxQ/view?usp=sharing)
+
+Player 2 [Google Drive Link](https://drive.google.com/file/d/1_b0PVlv1FgRZhzrqRzNTOabWxNRe-Lly/view?usp=sharing)
 
 **5. BONUS (Wendy didn't approve this so you should probably ignore it)** get the whole class to run your code and make your distributed system BIGGER.
