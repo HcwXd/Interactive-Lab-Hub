@@ -105,10 +105,16 @@ The user interface of this remote interactive device is pretty straightforward. 
 
 **4. Document the working prototype in use.** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
+Firstly, when player 1 score the basketball, we make sure both the Raspberry Pi update the score on the score board correctly.
+
+Player 1: [Google Drive Link](https://drive.google.com/file/d/1RaEQDWj1nUlwV3KDRiKFItP90BSxYLxQ/view?usp=sharing)
+
+Secondly, when player 2 score the basketball, we make sure both the Raspberry Pi update the score on the score board correctly.
+
+Player 2: [Google Drive Link](https://drive.google.com/file/d/1_b0PVlv1FgRZhzrqRzNTOabWxNRe-Lly/view?usp=sharing)
+
+Finally, we also make sure that the Raspberry Pi update the score on the score board correctly without any other interaction with that board.
+
 [Google Drive Link](https://drive.google.com/file/d/10tTn2xGhgNC6KjfZB6JYofiecKtaWkm1/view?usp=sharing)
-
-Player 1 [Google Drive Link](https://drive.google.com/file/d/1RaEQDWj1nUlwV3KDRiKFItP90BSxYLxQ/view?usp=sharing)
-
-Player 2 [Google Drive Link](https://drive.google.com/file/d/1_b0PVlv1FgRZhzrqRzNTOabWxNRe-Lly/view?usp=sharing)
 
 **5. BONUS (Wendy didn't approve this so you should probably ignore it)** get the whole class to run your code and make your distributed system BIGGER.
