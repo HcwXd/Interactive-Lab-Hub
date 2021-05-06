@@ -209,6 +209,34 @@ During the lecture, we mentioned questions to help characterize a material:
 
 **Include a short video demonstrating the answers to these questions.**
 
+What can you use X for?
+
+Gesture detection system like this one can be used for classifying real-time reaction. Like mention before, this can be used in a virtual classroom using webcam like zoom. This system can help the student in the classroom easily answer teacher's multi-choice by just use hand gesture to represent the number that is the correct option. It can also be used to quick give feedback to a Likert scale question given by someone who need to be graded.
+
+What is a good environment for X?
+
+An environment with great video resolution, proper lighting conditions and simple background will be a good environment for the gesture detection system.
+
+- What is a bad environment for X?
+
+A bad environment where the video resolution is bad, lighting conditions is not good or background is messy will be bad environment for the gesture detection system.
+
+- When will X break?
+
+In any of the aforementioned bad environments the gesture detection system may break.
+
+- When it breaks how will X break?
+
+The gesture detection system will break either by not detecting a gesture or doing a miss classification.
+
+- What are other properties/behaviors of X?
+
+There's no other properties of the gesture detection system.
+
+- How does X feel?
+
+It feels like a modern technology that should be used in every video call meeting. This kind of technology can make user more engaged in the video call since they then don't have to use the keyboard or mouse to answer the question or give feedback.
+
 ### Part 2.
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
