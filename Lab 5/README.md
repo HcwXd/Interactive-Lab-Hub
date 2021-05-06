@@ -176,9 +176,19 @@ To fix the problem I mentioned before, I add more training dataset with human fa
 
 
 1. Are they aware of the uncertainties in the system?
+
+   They should not be aware of the uncertainties in the system if such system is implemented in the product like Zoom. People will expect this system work without error.
+
 1. How bad would they be impacted by a miss classification?
+
+   If there's a miss classification, user may be affected much if the consequence of the result is pretty significant. For example, if the user is using it for some graded question, then they may be impacted badly. Otherwise, they may not be affected much. 
+
 1. How could change your interactive system to address this?
+   We can have the some soft of disclaimer such as buttons or other input in the system. In this way, we can always fallback to a simpler method of answering the question or ranking.
+
 1. Are there optimizations you can try to do on your sense-making algorithm.
+
+   An optimization has been done to address the issue of having human face in the system. For make it robust, we can have user report the error and put those image who gets error back to our model and train the model again.
 
 https://teachablemachine.withgoogle.com/models/SyN511r9t/
 
