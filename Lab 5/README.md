@@ -180,6 +180,8 @@ To fix the problem I mentioned before, I add more training dataset with human fa
 1. How could change your interactive system to address this?
 1. Are there optimizations you can try to do on your sense-making algorithm.
 
+https://teachablemachine.withgoogle.com/models/SyN511r9t/
+
 ### Part D
 
 ### Characterize your own Observant system
