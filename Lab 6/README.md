@@ -95,11 +95,13 @@ This device can be used for two player who would like to play basketball remotel
 
 ![diagram](imgs/diagram.png)
 
-The two players can each use their own raspberry pi and play the basketball. There's a camera attached to the Raspberry Pi that tells whether the basketball is going into the basket successfully. After the camera received the visual input and determine whether there's a score added, it will send the score over MQTT under the specific topic (`IDD/Illusinate/playerX`). The path here will be determined by which player is using the Raspberry Pi. For example, if the player 1 is using that Raspberry Pi, then the path will be `IDD/Illusinate/player1`. After the score of player 1 is updated in the MQTT database, the Raspberry Pi of the player 2 will receive the update in the database and display accordingly on its screen. Therefore, the two player's Raspberry Pi will display the synced score of each player.
+The two players can each use their own raspberry pi and play the basketball. There's a camera attached to the Raspberry Pi that tells whether the basketball is going into the basket successfully. After the camera received the visual input and determine whether there's a score added, it will send the score over MQTT under the specific topic (`IDD/Illusinate/playerX`). The path here will be determined by which player is using the Raspberry Pi. 
+
+For example, if the player 1 is using that Raspberry Pi, then the path will be `IDD/Illusinate/player1`. After the score of player 1 is updated in the MQTT database, the Raspberry Pi of the player 2 will receive the update in the database and display accordingly on its screen. Therefore, the two player's Raspberry Pi will display the synced score of each player.
 
 **3. Build a working prototype of the system.** Do think about the user interface: if someone encountered these bananas, would they know how to interact with them? Should they know what to expect?
 
-
+The user interface of this remote interactive device is pretty straightforward. We will have the user input the number of players they play (player 1 or player 2). After that, the user will only have to adjust the camera to make it able to see the basket and then play the basketball. The score on the board will be updated automatically.
 
 **4. Document the working prototype in use.** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
