@@ -237,10 +237,12 @@ There's no other properties of the gesture detection system.
 
 It feels like a modern technology that should be used in every video call meeting. This kind of technology can make user more engaged in the video call since they then don't have to use the keyboard or mouse to answer the question or give feedback.
 
-Video: [Google Drive Link](https://drive.google.com/file/d/1BvGbEzLEJ4WUNvoHpWaht6FN_x2vlvaM/view?usp=sharing)
+Demo Video: [Google Drive Link](https://drive.google.com/file/d/1BvGbEzLEJ4WUNvoHpWaht6FN_x2vlvaM/view?usp=sharing)
 
 ### Part 2.
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **Include a short video demonstrating the finished result.**
+
+Demo Video: [Google Drive Link](https://drive.google.com/file/d/1BvGbEzLEJ4WUNvoHpWaht6FN_x2vlvaM/view?usp=sharing)
