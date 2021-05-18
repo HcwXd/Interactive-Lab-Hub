@@ -1,4 +1,4 @@
-# Final Project
+# Final Project - Status Dashboard 
 
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
@@ -24,7 +24,7 @@ Special thanks to Angelica Kosasih (ak2725) for sharing the thoughts and inspiri
 
 ### Update local status 
 
-To adjust the local status of the device, the users can press the button on the device to switch between three statuses: Free to talk, Free but don’t want to talk, Busy. As shown in figure (1). We used three different colors to indicate three different statuses: Free to talk (Green), Free but don’t want to talk (Blue), Busy (Red). After pressing the button, the user’s status board will change color accordingly.
+To adjust the local status of the device, the users can press the button on the device to switch between three statuses: Free to talk, Free but don’t want to talk, Busy. As shown in figure (1). We used three different colors to indicate three different statuses: Free to talk (Green), Free but don’t want to talk (Blue), Busy (Red). After pressing the button, the user’s status dashboard will change color accordingly.
 
 ![Figure(1)](imgs/Figure(1).png)
 
@@ -36,7 +36,7 @@ To connect different multiple devices, we used the similar structure we have lea
 
 ### Facial impression translation
 
-To translate the facial impressions to emojis, we utilized what we have learned and used in Lab5. We used Teachable Machine service to help us train a Computer Vision model that can identify whether a user's facial impression is indicating a good mood or not. By doing so, we can adjust the emoji on the user's status board accordingly.
+To translate the facial impressions to emojis, we utilized what we have learned and used in Lab5. We used Teachable Machine service to help us train a Computer Vision model that can identify whether a user's facial impression is indicating a good mood or not. By doing so, we can adjust the emoji on the user's status dashboard accordingly.
 
 ## Design
 
@@ -54,7 +54,7 @@ Also, because our device is aiming to let the user be able to have a phone call 
 
 In the process of the final project, we learned to integrate what we have learned in the previous labs and made something that we think can be valuable and useful for people. 
 
-The display technique we learned in lab 2 help us program the user interface of the status board. In lab 4, we also learned about leveraging cardboard to increase the device's usability and make it more enjoyable to use, which also contributed to the status board's final design. As we have mentioned above, in lab 5 we learned about how to use services like Teachable Machine to support Computer Vision functions like image recognition and classification, which enables us to add the features to translate facial impressions to emojis. Last but not least, in lab 6 we learned about MQTT and how to send and sync states between different devices. By adopting a similar structure, we make the status board able to connect to multiple devices, and therefore, multiple people.
+The display technique we learned in lab 2 help us program the user interface of the status dashboard. In lab 4, we also learned about leveraging cardboard to increase the device's usability and make it more enjoyable to use, which also contributed to the status dashboard's final design. As we have mentioned above, in lab 5 we learned about how to use services like Teachable Machine to support Computer Vision functions like image recognition and classification, which enables us to add the features to translate facial impressions to emojis. Last but not least, in lab 6 we learned about MQTT and how to send and sync states between different devices. By adopting a similar structure, we make the status dashboard able to connect to multiple devices, and therefore, multiple people.
 
 
 
