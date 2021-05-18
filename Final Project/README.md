@@ -22,13 +22,21 @@ Special thanks to Angelica Kosasih (ak2725) for sharing the thoughts and inspiri
 
 ## Technical Implementation
 
+### Update local status 
+
 To adjust the local status of the device, the users can press the button on the device to switch between three statuses: Free to talk, Free but don’t want to talk, Busy. As shown in figure (1). We used three different colors to indicate three different statuses: Free to talk (Green), Free but don’t want to talk (Blue), Busy (Red). After pressing the button, the user’s status board will change color accordingly.
 
 ![Figure(1)](imgs/Figure(1).png)
 
+### Sync status across multiple devices
+
 To connect different multiple devices, we used the similar structure we have learned and used in Lab 6. MQTT was used to send and sync states between different devices. Whenever a user presses the button to change the status, it will send the new status over MQTT under the specific topic `IDD/Illusinate/playerX_status`. The path here will be determined by which player is using the Raspberry Pi. As shown in figure (2).
 
 ![Figure(2)](imgs/Figure(2).png)
+
+### Facial impression translation
+
+To translate the facial impressions to emojis, we utilized what we have learned and used in Lab5. We used Teachable Machine service to help us train a Computer Vision model that can identify whether a user's facial impression is indicating a good mood or not. By doing so, we can adjust the emoji on the user's status board accordingly.
 
 ## Design
 
@@ -42,20 +50,11 @@ Also, because our device is aiming to let the user be able to have a phone call 
 
 [Demo Video](https://drive.google.com/file/d/1Fq6qUFNlfVv9uQ__QDI-Z0VBWKINB6cy/view)
 
+## Reflection
 
+In the process of the final project, we learned to integrate what we have learned in the previous labs and made something that we think can be valuable and useful for people. 
 
-
-
-
-
-
-
-
-
-1. Documentation of design process
-2. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
-3. Video of someone using your project (or as safe a version of that as can be managed given social distancing)
-4. Reflections on process (What have you learned or wish you knew at the start?)
+The display technique we learned in lab 2 help us program the user interface of the status board. In lab 4, we also learned about leveraging cardboard to increase the device's usability and make it more enjoyable to use, which also contributed to the status board's final design. As we have mentioned above, in lab 5 we learned about how to use services like Teachable Machine to support Computer Vision functions like image recognition and classification, which enables us to add the features to translate facial impressions to emojis. Last but not least, in lab 6 we learned about MQTT and how to send and sync states between different devices. By adopting a similar structure, we make the status board able to connect to multiple devices, and therefore, multiple people.
 
 
 
