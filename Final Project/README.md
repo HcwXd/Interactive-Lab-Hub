@@ -10,6 +10,12 @@ Final Project Presentations (video watch party) - May 12
 
 Final Project Documentation due - May 19
 
+## Team Members
+
+- [Kae-Jer Cho kc2225](https://github.com/moonorblue/Interactive-Lab-Hub)
+- [Cheng-Wei Hu ch956](https://github.com/HcwXd/Interactive-Lab-Hub)
+- [Jeff Ming-Chun Lu ml2684](https://github.com/r06921039/Interactive-Lab-Hub)
+
 ## Project Description
 
 Our project is a status dashboard that can connect with multiple devices from your friends. This device can be placed on the desk and you can set your own status for the moment right now, such as you're busy, you're available, or even like you have a short free time slot right now.
